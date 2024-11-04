@@ -1,1 +1,0 @@
-LINK = "https://www.facebook.com/"
